@@ -1,0 +1,17 @@
+.nav_container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 2rem 10rem;
+}
+.nav_container a {
+  text-decoration: none;
+  color: black;
+  font-family: "Courier New", Courier, monospace;
+}
+.nav_container .nav_right_side a {
+  padding: 0 1.5rem;
+  font-family: "Courier New", Courier, monospace;
+  text-transform: uppercase;
+  font-size: 1.1rem;
+}
